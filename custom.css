@@ -1,0 +1,28 @@
+body { color:white; 
+		background-color: #082664;
+		text-align: center
+	}
+
+ul {list-style-position: inside;
+	list-style-image: url('sparkle.png')}
+
+h1 { border-style: double; 
+	}
+h1 {font-family: cursive, "Lucida Handwriting";
+	}
+h1 p.thick { font-weight: bold;
+	}
+
+
+
+h2 {font-family: cursive, "Lucida Handwriting";
+	}
+h2 { text-decoration-line: underline;
+	}	
+
+h3 { text-decoration-line: underline; 
+	 background-color: mediumpurple 
+	}
+
+	  
+p {font-family: monospace, "Courier New";}
